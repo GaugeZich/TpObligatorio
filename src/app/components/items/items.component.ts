@@ -25,6 +25,13 @@ export class ItemsComponent implements OnInit {
         price: 3.5,
         quantity: 8,
         completed: true
+      },
+      {
+        id: 2,
+        title: 'chamarra',
+        price: 300,
+        quantity: 1,
+        completed: false
       }
     ]
   }
